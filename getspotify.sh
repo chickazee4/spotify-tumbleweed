@@ -1,3 +1,4 @@
+#!/bin/bash
 VERSION=1.1.68.632.g2b11de83
 
 cd /tmp
