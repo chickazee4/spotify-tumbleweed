@@ -1,6 +1,5 @@
 #!/bin/bash
-VERSION=1.1.68.632.g2b11de83
-
+VERSION=1.1.72.439.gc253025e
 cd /tmp
 wget https://repository-origin.spotify.com/pool/non-free/s/spotify-client/spotify-client_${VERSION}_amd64.deb
 ar x spotify-client*.deb
